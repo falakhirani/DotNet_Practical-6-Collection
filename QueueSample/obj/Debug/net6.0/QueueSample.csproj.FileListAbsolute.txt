@@ -1,0 +1,15 @@
+E:\Practical .NET\Practical-6\QueueSample\bin\Debug\net6.0\QueueSample.exe
+E:\Practical .NET\Practical-6\QueueSample\bin\Debug\net6.0\QueueSample.deps.json
+E:\Practical .NET\Practical-6\QueueSample\bin\Debug\net6.0\QueueSample.runtimeconfig.json
+E:\Practical .NET\Practical-6\QueueSample\bin\Debug\net6.0\QueueSample.dll
+E:\Practical .NET\Practical-6\QueueSample\bin\Debug\net6.0\ref\QueueSample.dll
+E:\Practical .NET\Practical-6\QueueSample\bin\Debug\net6.0\QueueSample.pdb
+E:\Practical .NET\Practical-6\QueueSample\obj\Debug\net6.0\QueueSample.csproj.AssemblyReference.cache
+E:\Practical .NET\Practical-6\QueueSample\obj\Debug\net6.0\QueueSample.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practical .NET\Practical-6\QueueSample\obj\Debug\net6.0\QueueSample.AssemblyInfoInputs.cache
+E:\Practical .NET\Practical-6\QueueSample\obj\Debug\net6.0\QueueSample.AssemblyInfo.cs
+E:\Practical .NET\Practical-6\QueueSample\obj\Debug\net6.0\QueueSample.csproj.CoreCompileInputs.cache
+E:\Practical .NET\Practical-6\QueueSample\obj\Debug\net6.0\QueueSample.dll
+E:\Practical .NET\Practical-6\QueueSample\obj\Debug\net6.0\ref\QueueSample.dll
+E:\Practical .NET\Practical-6\QueueSample\obj\Debug\net6.0\QueueSample.pdb
+E:\Practical .NET\Practical-6\QueueSample\obj\Debug\net6.0\QueueSample.genruntimeconfig.cache

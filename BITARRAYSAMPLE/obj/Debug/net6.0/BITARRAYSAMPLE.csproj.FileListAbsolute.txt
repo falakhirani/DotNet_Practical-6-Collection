@@ -1,0 +1,15 @@
+E:\Practical .NET\Practical-6\BITARRAYSAMPLE\bin\Debug\net6.0\BITARRAYSAMPLE.exe
+E:\Practical .NET\Practical-6\BITARRAYSAMPLE\bin\Debug\net6.0\BITARRAYSAMPLE.deps.json
+E:\Practical .NET\Practical-6\BITARRAYSAMPLE\bin\Debug\net6.0\BITARRAYSAMPLE.runtimeconfig.json
+E:\Practical .NET\Practical-6\BITARRAYSAMPLE\bin\Debug\net6.0\BITARRAYSAMPLE.dll
+E:\Practical .NET\Practical-6\BITARRAYSAMPLE\bin\Debug\net6.0\ref\BITARRAYSAMPLE.dll
+E:\Practical .NET\Practical-6\BITARRAYSAMPLE\bin\Debug\net6.0\BITARRAYSAMPLE.pdb
+E:\Practical .NET\Practical-6\BITARRAYSAMPLE\obj\Debug\net6.0\BITARRAYSAMPLE.csproj.AssemblyReference.cache
+E:\Practical .NET\Practical-6\BITARRAYSAMPLE\obj\Debug\net6.0\BITARRAYSAMPLE.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practical .NET\Practical-6\BITARRAYSAMPLE\obj\Debug\net6.0\BITARRAYSAMPLE.AssemblyInfoInputs.cache
+E:\Practical .NET\Practical-6\BITARRAYSAMPLE\obj\Debug\net6.0\BITARRAYSAMPLE.AssemblyInfo.cs
+E:\Practical .NET\Practical-6\BITARRAYSAMPLE\obj\Debug\net6.0\BITARRAYSAMPLE.csproj.CoreCompileInputs.cache
+E:\Practical .NET\Practical-6\BITARRAYSAMPLE\obj\Debug\net6.0\BITARRAYSAMPLE.dll
+E:\Practical .NET\Practical-6\BITARRAYSAMPLE\obj\Debug\net6.0\ref\BITARRAYSAMPLE.dll
+E:\Practical .NET\Practical-6\BITARRAYSAMPLE\obj\Debug\net6.0\BITARRAYSAMPLE.pdb
+E:\Practical .NET\Practical-6\BITARRAYSAMPLE\obj\Debug\net6.0\BITARRAYSAMPLE.genruntimeconfig.cache

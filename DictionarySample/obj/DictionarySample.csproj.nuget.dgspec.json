@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Practical .NET\\Practical-6\\DictionarySample\\DictionarySample.csproj": {}
+  },
+  "projects": {
+    "E:\\Practical .NET\\Practical-6\\DictionarySample\\DictionarySample.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Practical .NET\\Practical-6\\DictionarySample\\DictionarySample.csproj",
+        "projectName": "DictionarySample",
+        "projectPath": "E:\\Practical .NET\\Practical-6\\DictionarySample\\DictionarySample.csproj",
+        "packagesPath": "C:\\Users\\FALAK\\.nuget\\packages\\",
+        "outputPath": "E:\\Practical .NET\\Practical-6\\DictionarySample\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\FALAK\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

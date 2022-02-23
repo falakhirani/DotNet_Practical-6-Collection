@@ -1,0 +1,15 @@
+E:\Practical .NET\Practical-6\ObservableCollectionSample\bin\Debug\net6.0\ObservableCollectionSample.exe
+E:\Practical .NET\Practical-6\ObservableCollectionSample\bin\Debug\net6.0\ObservableCollectionSample.deps.json
+E:\Practical .NET\Practical-6\ObservableCollectionSample\bin\Debug\net6.0\ObservableCollectionSample.runtimeconfig.json
+E:\Practical .NET\Practical-6\ObservableCollectionSample\bin\Debug\net6.0\ObservableCollectionSample.dll
+E:\Practical .NET\Practical-6\ObservableCollectionSample\bin\Debug\net6.0\ref\ObservableCollectionSample.dll
+E:\Practical .NET\Practical-6\ObservableCollectionSample\bin\Debug\net6.0\ObservableCollectionSample.pdb
+E:\Practical .NET\Practical-6\ObservableCollectionSample\obj\Debug\net6.0\ObservableCollectionSample.csproj.AssemblyReference.cache
+E:\Practical .NET\Practical-6\ObservableCollectionSample\obj\Debug\net6.0\ObservableCollectionSample.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practical .NET\Practical-6\ObservableCollectionSample\obj\Debug\net6.0\ObservableCollectionSample.AssemblyInfoInputs.cache
+E:\Practical .NET\Practical-6\ObservableCollectionSample\obj\Debug\net6.0\ObservableCollectionSample.AssemblyInfo.cs
+E:\Practical .NET\Practical-6\ObservableCollectionSample\obj\Debug\net6.0\ObservableCollectionSample.csproj.CoreCompileInputs.cache
+E:\Practical .NET\Practical-6\ObservableCollectionSample\obj\Debug\net6.0\ObservableCollectionSample.dll
+E:\Practical .NET\Practical-6\ObservableCollectionSample\obj\Debug\net6.0\ref\ObservableCollectionSample.dll
+E:\Practical .NET\Practical-6\ObservableCollectionSample\obj\Debug\net6.0\ObservableCollectionSample.pdb
+E:\Practical .NET\Practical-6\ObservableCollectionSample\obj\Debug\net6.0\ObservableCollectionSample.genruntimeconfig.cache

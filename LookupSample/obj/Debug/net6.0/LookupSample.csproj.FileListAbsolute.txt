@@ -1,0 +1,15 @@
+E:\Practical .NET\Practical-6\LookupSample\bin\Debug\net6.0\LookupSample.exe
+E:\Practical .NET\Practical-6\LookupSample\bin\Debug\net6.0\LookupSample.deps.json
+E:\Practical .NET\Practical-6\LookupSample\bin\Debug\net6.0\LookupSample.runtimeconfig.json
+E:\Practical .NET\Practical-6\LookupSample\bin\Debug\net6.0\LookupSample.dll
+E:\Practical .NET\Practical-6\LookupSample\bin\Debug\net6.0\ref\LookupSample.dll
+E:\Practical .NET\Practical-6\LookupSample\bin\Debug\net6.0\LookupSample.pdb
+E:\Practical .NET\Practical-6\LookupSample\obj\Debug\net6.0\LookupSample.csproj.AssemblyReference.cache
+E:\Practical .NET\Practical-6\LookupSample\obj\Debug\net6.0\LookupSample.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practical .NET\Practical-6\LookupSample\obj\Debug\net6.0\LookupSample.AssemblyInfoInputs.cache
+E:\Practical .NET\Practical-6\LookupSample\obj\Debug\net6.0\LookupSample.AssemblyInfo.cs
+E:\Practical .NET\Practical-6\LookupSample\obj\Debug\net6.0\LookupSample.csproj.CoreCompileInputs.cache
+E:\Practical .NET\Practical-6\LookupSample\obj\Debug\net6.0\LookupSample.dll
+E:\Practical .NET\Practical-6\LookupSample\obj\Debug\net6.0\ref\LookupSample.dll
+E:\Practical .NET\Practical-6\LookupSample\obj\Debug\net6.0\LookupSample.pdb
+E:\Practical .NET\Practical-6\LookupSample\obj\Debug\net6.0\LookupSample.genruntimeconfig.cache

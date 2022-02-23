@@ -1,0 +1,15 @@
+E:\Practical .NET\Practical-6\SetSample\bin\Debug\net6.0\SetSample.exe
+E:\Practical .NET\Practical-6\SetSample\bin\Debug\net6.0\SetSample.deps.json
+E:\Practical .NET\Practical-6\SetSample\bin\Debug\net6.0\SetSample.runtimeconfig.json
+E:\Practical .NET\Practical-6\SetSample\bin\Debug\net6.0\SetSample.dll
+E:\Practical .NET\Practical-6\SetSample\bin\Debug\net6.0\ref\SetSample.dll
+E:\Practical .NET\Practical-6\SetSample\bin\Debug\net6.0\SetSample.pdb
+E:\Practical .NET\Practical-6\SetSample\obj\Debug\net6.0\SetSample.csproj.AssemblyReference.cache
+E:\Practical .NET\Practical-6\SetSample\obj\Debug\net6.0\SetSample.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practical .NET\Practical-6\SetSample\obj\Debug\net6.0\SetSample.AssemblyInfoInputs.cache
+E:\Practical .NET\Practical-6\SetSample\obj\Debug\net6.0\SetSample.AssemblyInfo.cs
+E:\Practical .NET\Practical-6\SetSample\obj\Debug\net6.0\SetSample.csproj.CoreCompileInputs.cache
+E:\Practical .NET\Practical-6\SetSample\obj\Debug\net6.0\SetSample.dll
+E:\Practical .NET\Practical-6\SetSample\obj\Debug\net6.0\ref\SetSample.dll
+E:\Practical .NET\Practical-6\SetSample\obj\Debug\net6.0\SetSample.pdb
+E:\Practical .NET\Practical-6\SetSample\obj\Debug\net6.0\SetSample.genruntimeconfig.cache

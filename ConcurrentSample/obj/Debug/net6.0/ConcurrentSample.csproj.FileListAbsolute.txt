@@ -1,0 +1,15 @@
+E:\Practical .NET\Practical-6\ConcurrentSample\bin\Debug\net6.0\ConcurrentSample.exe
+E:\Practical .NET\Practical-6\ConcurrentSample\bin\Debug\net6.0\ConcurrentSample.deps.json
+E:\Practical .NET\Practical-6\ConcurrentSample\bin\Debug\net6.0\ConcurrentSample.runtimeconfig.json
+E:\Practical .NET\Practical-6\ConcurrentSample\bin\Debug\net6.0\ConcurrentSample.dll
+E:\Practical .NET\Practical-6\ConcurrentSample\bin\Debug\net6.0\ref\ConcurrentSample.dll
+E:\Practical .NET\Practical-6\ConcurrentSample\bin\Debug\net6.0\ConcurrentSample.pdb
+E:\Practical .NET\Practical-6\ConcurrentSample\obj\Debug\net6.0\ConcurrentSample.csproj.AssemblyReference.cache
+E:\Practical .NET\Practical-6\ConcurrentSample\obj\Debug\net6.0\ConcurrentSample.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practical .NET\Practical-6\ConcurrentSample\obj\Debug\net6.0\ConcurrentSample.AssemblyInfoInputs.cache
+E:\Practical .NET\Practical-6\ConcurrentSample\obj\Debug\net6.0\ConcurrentSample.AssemblyInfo.cs
+E:\Practical .NET\Practical-6\ConcurrentSample\obj\Debug\net6.0\ConcurrentSample.csproj.CoreCompileInputs.cache
+E:\Practical .NET\Practical-6\ConcurrentSample\obj\Debug\net6.0\ConcurrentSample.dll
+E:\Practical .NET\Practical-6\ConcurrentSample\obj\Debug\net6.0\ref\ConcurrentSample.dll
+E:\Practical .NET\Practical-6\ConcurrentSample\obj\Debug\net6.0\ConcurrentSample.pdb
+E:\Practical .NET\Practical-6\ConcurrentSample\obj\Debug\net6.0\ConcurrentSample.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+E:\Practical .NET\Practical-6\DictionarySample\bin\Debug\net6.0\DictionarySample.exe
+E:\Practical .NET\Practical-6\DictionarySample\bin\Debug\net6.0\DictionarySample.deps.json
+E:\Practical .NET\Practical-6\DictionarySample\bin\Debug\net6.0\DictionarySample.runtimeconfig.json
+E:\Practical .NET\Practical-6\DictionarySample\bin\Debug\net6.0\DictionarySample.dll
+E:\Practical .NET\Practical-6\DictionarySample\bin\Debug\net6.0\ref\DictionarySample.dll
+E:\Practical .NET\Practical-6\DictionarySample\bin\Debug\net6.0\DictionarySample.pdb
+E:\Practical .NET\Practical-6\DictionarySample\obj\Debug\net6.0\DictionarySample.csproj.AssemblyReference.cache
+E:\Practical .NET\Practical-6\DictionarySample\obj\Debug\net6.0\DictionarySample.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practical .NET\Practical-6\DictionarySample\obj\Debug\net6.0\DictionarySample.AssemblyInfoInputs.cache
+E:\Practical .NET\Practical-6\DictionarySample\obj\Debug\net6.0\DictionarySample.AssemblyInfo.cs
+E:\Practical .NET\Practical-6\DictionarySample\obj\Debug\net6.0\DictionarySample.csproj.CoreCompileInputs.cache
+E:\Practical .NET\Practical-6\DictionarySample\obj\Debug\net6.0\DictionarySample.dll
+E:\Practical .NET\Practical-6\DictionarySample\obj\Debug\net6.0\ref\DictionarySample.dll
+E:\Practical .NET\Practical-6\DictionarySample\obj\Debug\net6.0\DictionarySample.pdb
+E:\Practical .NET\Practical-6\DictionarySample\obj\Debug\net6.0\DictionarySample.genruntimeconfig.cache

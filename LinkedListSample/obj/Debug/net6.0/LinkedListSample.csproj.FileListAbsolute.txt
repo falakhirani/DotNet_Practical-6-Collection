@@ -1,0 +1,15 @@
+E:\Practical .NET\Practical-6\LinkedListSample\bin\Debug\net6.0\LinkedListSample.exe
+E:\Practical .NET\Practical-6\LinkedListSample\bin\Debug\net6.0\LinkedListSample.deps.json
+E:\Practical .NET\Practical-6\LinkedListSample\bin\Debug\net6.0\LinkedListSample.runtimeconfig.json
+E:\Practical .NET\Practical-6\LinkedListSample\bin\Debug\net6.0\LinkedListSample.dll
+E:\Practical .NET\Practical-6\LinkedListSample\bin\Debug\net6.0\ref\LinkedListSample.dll
+E:\Practical .NET\Practical-6\LinkedListSample\bin\Debug\net6.0\LinkedListSample.pdb
+E:\Practical .NET\Practical-6\LinkedListSample\obj\Debug\net6.0\LinkedListSample.csproj.AssemblyReference.cache
+E:\Practical .NET\Practical-6\LinkedListSample\obj\Debug\net6.0\LinkedListSample.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practical .NET\Practical-6\LinkedListSample\obj\Debug\net6.0\LinkedListSample.AssemblyInfoInputs.cache
+E:\Practical .NET\Practical-6\LinkedListSample\obj\Debug\net6.0\LinkedListSample.AssemblyInfo.cs
+E:\Practical .NET\Practical-6\LinkedListSample\obj\Debug\net6.0\LinkedListSample.csproj.CoreCompileInputs.cache
+E:\Practical .NET\Practical-6\LinkedListSample\obj\Debug\net6.0\LinkedListSample.dll
+E:\Practical .NET\Practical-6\LinkedListSample\obj\Debug\net6.0\ref\LinkedListSample.dll
+E:\Practical .NET\Practical-6\LinkedListSample\obj\Debug\net6.0\LinkedListSample.pdb
+E:\Practical .NET\Practical-6\LinkedListSample\obj\Debug\net6.0\LinkedListSample.genruntimeconfig.cache

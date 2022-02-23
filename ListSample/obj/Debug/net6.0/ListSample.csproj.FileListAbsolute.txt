@@ -1,0 +1,15 @@
+E:\Practical .NET\Practical-6\ListSample\bin\Debug\net6.0\ListSample.exe
+E:\Practical .NET\Practical-6\ListSample\bin\Debug\net6.0\ListSample.deps.json
+E:\Practical .NET\Practical-6\ListSample\bin\Debug\net6.0\ListSample.runtimeconfig.json
+E:\Practical .NET\Practical-6\ListSample\bin\Debug\net6.0\ListSample.dll
+E:\Practical .NET\Practical-6\ListSample\bin\Debug\net6.0\ref\ListSample.dll
+E:\Practical .NET\Practical-6\ListSample\bin\Debug\net6.0\ListSample.pdb
+E:\Practical .NET\Practical-6\ListSample\obj\Debug\net6.0\ListSample.csproj.AssemblyReference.cache
+E:\Practical .NET\Practical-6\ListSample\obj\Debug\net6.0\ListSample.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practical .NET\Practical-6\ListSample\obj\Debug\net6.0\ListSample.AssemblyInfoInputs.cache
+E:\Practical .NET\Practical-6\ListSample\obj\Debug\net6.0\ListSample.AssemblyInfo.cs
+E:\Practical .NET\Practical-6\ListSample\obj\Debug\net6.0\ListSample.csproj.CoreCompileInputs.cache
+E:\Practical .NET\Practical-6\ListSample\obj\Debug\net6.0\ListSample.dll
+E:\Practical .NET\Practical-6\ListSample\obj\Debug\net6.0\ref\ListSample.dll
+E:\Practical .NET\Practical-6\ListSample\obj\Debug\net6.0\ListSample.pdb
+E:\Practical .NET\Practical-6\ListSample\obj\Debug\net6.0\ListSample.genruntimeconfig.cache

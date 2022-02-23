@@ -1,0 +1,15 @@
+E:\Practical .NET\Practical-6\StackSample\bin\Debug\net6.0\StackSample.exe
+E:\Practical .NET\Practical-6\StackSample\bin\Debug\net6.0\StackSample.deps.json
+E:\Practical .NET\Practical-6\StackSample\bin\Debug\net6.0\StackSample.runtimeconfig.json
+E:\Practical .NET\Practical-6\StackSample\bin\Debug\net6.0\StackSample.dll
+E:\Practical .NET\Practical-6\StackSample\bin\Debug\net6.0\ref\StackSample.dll
+E:\Practical .NET\Practical-6\StackSample\bin\Debug\net6.0\StackSample.pdb
+E:\Practical .NET\Practical-6\StackSample\obj\Debug\net6.0\StackSample.csproj.AssemblyReference.cache
+E:\Practical .NET\Practical-6\StackSample\obj\Debug\net6.0\StackSample.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practical .NET\Practical-6\StackSample\obj\Debug\net6.0\StackSample.AssemblyInfoInputs.cache
+E:\Practical .NET\Practical-6\StackSample\obj\Debug\net6.0\StackSample.AssemblyInfo.cs
+E:\Practical .NET\Practical-6\StackSample\obj\Debug\net6.0\StackSample.csproj.CoreCompileInputs.cache
+E:\Practical .NET\Practical-6\StackSample\obj\Debug\net6.0\StackSample.dll
+E:\Practical .NET\Practical-6\StackSample\obj\Debug\net6.0\ref\StackSample.dll
+E:\Practical .NET\Practical-6\StackSample\obj\Debug\net6.0\StackSample.pdb
+E:\Practical .NET\Practical-6\StackSample\obj\Debug\net6.0\StackSample.genruntimeconfig.cache
